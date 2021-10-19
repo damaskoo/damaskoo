@@ -5,3 +5,5 @@
 🇷�
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damaskoo)](https://github.com/damaskoo/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+
